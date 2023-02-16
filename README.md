@@ -1,2 +1,1 @@
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+lurk+(also+known+as+sxri)!;I+know+Javascript%2C+LUA%2C+Python%2C+and+Html%2Fcss;Attempting+to+learn+C%2B%2B%2C+and+better+Javascript.;I+am+experienced+in+Exploiting+;That's+it!+Check+out+my+projects+if+you'd+like." alt="Typing SVG" /></a>
-](https://readme-typing-svg.demolab.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=530&lines=Hi+i'm+lurk+(aka+sxri)!;I+know+CSS%2C+HTML%2C+LUA%2C+JS%2C+C%2B%2B%2C+and+more!;I+usually+post+my+websites+here;Founder+of+AnchorX+%26+Hyper" alt="Typing SVG" /></a>
